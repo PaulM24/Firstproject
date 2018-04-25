@@ -87,23 +87,23 @@ img {
 }*/
 
 .circle2 {
-	background-image: url("IMAGES/Coast.JPG");
+	background-image: url("coast.JPG");
 }
 
 .circle3 {
-	background-image: url("IMAGES/ship.JPG");
+	background-image: url("ship.JPG");
 }
 
 .circle4 {
-	background-image: url("IMAGES/surfers.JPG");
+	background-image: url("surfers.JPG");
 }
 
 .circle5 {
-	background-image: url("IMAGES/birds.JPG");
+	background-image: url("birds.JPG");
 }
 
 .circle6 {
-	background-image: url("IMAGES/board.JPG");
+	background-image: url("board.JPG");
 }
 
 .bottombar {
