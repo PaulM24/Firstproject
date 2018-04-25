@@ -71,6 +71,9 @@ body, html {
 	border-radius: 8px;
 	background-color: rgb(0 0 0);
 	background-position: center;
+	-o-background-size: cover;
+	-moz-background-size: cover;
+	-webkit-background-size: cover;
 	background-size: cover;
 }
 
