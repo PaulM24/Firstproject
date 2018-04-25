@@ -33,7 +33,7 @@ body, html {
 
 .middle {
 	padding: 0% 5%;
-	background-image: url("IMAGES/girl.JPG");
+	background-image: url("girl.JPG");
 	height: 70%;
 	background-position: top;
 	background-repeat: no-repeat;
@@ -79,7 +79,7 @@ body, html {
 }
 
 .circle1 {
-	background-image: url("BRIDGE.JPG");
+	background-image: url("bridge.JPG");
 }
 
 .circle2 {
