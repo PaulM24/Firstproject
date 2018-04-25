@@ -31,12 +31,15 @@ body, html {
 	font-family: 'Dosis', sans-serif;
 }
 
-.babecontainer {
+.middle {
 	padding: 0% 5%;
-	background-image: url("babesurfer.JPG");
+	background-image: url("girl.JPG");
 	height: 70%;
 	background-position: top;
 	background-repeat: no-repeat;
+	-o-background-size: cover;
+	-moz-background-size: cover;
+	-webkit-background-size: cover;
 	background-size: cover;
 	display: flex;
 
