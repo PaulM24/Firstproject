@@ -33,13 +33,13 @@ body, html {
 
 .middle {
 	padding: 0% 5%;
-	background-image: url("girl.JPG");
+	background-image: url("IMAGES/girl.JPG");
 	height: 70%;
 	background-position: top;
 	background-repeat: no-repeat;
-	/*-o-background-size: cover;
+	-o-background-size: cover;
 	-moz-background-size: cover;
-	-webkit-background-size: cover;*/
+	-webkit-background-size: cover;
 	background-size: cover;
 	display: flex;
 
@@ -75,27 +75,27 @@ body, html {
 }
 
 .circle1 {
-	background-image: url("images/bridge.jpg");
+	background-image: url("IMAGES/bridge.JPG");
 }
 
 .circle2 {
-	background-image: url("images/Coast.jpg");
+	background-image: url("IMAGES/Coast.JPG");
 }
 
 .circle3 {
-	background-image: url("images/Ship.jpg");
+	background-image: url("IMAGES/Ship.JPG");
 }
 
 .circle4 {
-	background-image: url("images/Surfers.jpg");
+	background-image: url("IMAGES/Surfers.JPG");
 }
 
 .circle5 {
-	background-image: url("images/Birds.jpg");
+	background-image: url("IMAGES/Birds.JPG");
 }
 
 .circle6 {
-	background-image: url("images/Board.jpg");
+	background-image: url("IMAGES/Board.JPG");
 }
 
 .bottombar {
