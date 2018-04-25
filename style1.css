@@ -78,13 +78,9 @@ body, html {
 	background-size: cover;
 }
 
-img {
-	height: 100%;	
+.circle1 {
+	background-image: url("BRIDGE.JPG");
 }
-
-/*.circle1 {
-	background-image: url("IMAGES/bridge.JPG");
-}*/
 
 .circle2 {
 	background-image: url("coast.JPG");
